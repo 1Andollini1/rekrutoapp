@@ -1,2 +1,0 @@
-# rekrutoapp
-rekruto with heroku
